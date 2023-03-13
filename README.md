@@ -5,8 +5,8 @@
 <h3 align="left">Objective</h3>
 <p align="left">The goal of this project is to compare stock price(opening, closing, highest, lowest, adjusted closing price) and stock volume of the companies Britannia and DMart.</p>
 
-<h3 align="left">Dataset Downloaded</h3>
-<a href="https://finance.yahoo.com/"></a>
+<h3 align="left">Dataset</h3>
+<p align="left"><a href="https://finance.yahoo.com/"></a></p>
 
 
 <h3 align="left">Tool</h3>
