@@ -14,4 +14,12 @@
 <p align="left"><a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/512/microsoft-excel-2019--v1.png" alt="excel" width="40" height="40"/></a>
 
 <h3 align="left">Insights</h3>
+<p align="left">⚫ Until mid-November, Dmart's opening, closing, highest, and lowest prices were higher than Britannia's. However, after that point, the prices for Dmart began to decline and became lower than Britannia's prices.<br>
 
+
+
+⚫ In January, the opening, closing, highest, lowest, and adjusted closing prices for Dmart are at their highest, whereas for Britannia, they are highest at the end of the year.<br>
+
+
+
+⚫ The highest stock volume for Dmart was observed on January 11th, followed by the second-highest volume on July 12th. On the other hand, Britannia's highest stock volume was recorded on November 8th, with the second-highest volume being observed on May 3rd.</p>
