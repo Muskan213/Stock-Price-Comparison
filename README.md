@@ -5,5 +5,8 @@
 <h2 align="left">Objective</h3>
 <p align="left">The goal of this project is to compare stock price(opening, closing, highest, lowest, adjusted closing price) and stock volume of the companies Britannia and DMart.</p>
 
+<h2 align="left">Tool</h3>
+
+<p align="left"><a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/512/microsoft-excel-2019--v1.png" alt="excel" width="40" height="40"/></a>
 
 
