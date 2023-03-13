@@ -1,4 +1,4 @@
-<h1 align="center">Stock Price Comparison of Britannia & Dmart</h1>
+<h3 align="center">Stock Price Comparison of Britannia & Dmart</h3>
 
 
 
